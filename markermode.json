@@ -1,0 +1,11 @@
+{
+   "mode" : [
+      {"name" : "state", "value" : "num_state", "max" : 9, "units" : ""},
+      {"name" : "hubCn", "value" : "cn_on_hub", "max" : 25, "units" : "dB"},
+      {"name" : "hubCnScaled", "value" : "sc_hub_cn", "max" : 100, "units" : "%"},
+      {"name" : "stationCn", "value" : "station_cn", "max" : 25, "units" : "dB"},
+      {"name" : "stationCnScaled", "value" : "sc_stn_cn", "max" : 100, "units" : "%"},
+      {"name" : "forwardAcm", "value" : "forward_acm", "max" : 8, "units" : ""},
+      {"name" : "returnAcm", "value" : "return_acm", "max" : 16, "units" : ""}
+   ]
+}
